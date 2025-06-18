@@ -1,3 +1,5 @@
+# Why Core.Tools?
+
 Maintaining a consistent and standardized approach to software development is crucial for any organization that aims for scalability, quality, and compliance. Two vital aspects of this consistency are **Core.Tools** and **ProjectTemplates**, which help enforce best practices, streamline onboarding, and reduce technical debt across teams.
 
 ---
